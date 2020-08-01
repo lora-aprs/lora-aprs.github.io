@@ -1,11 +1,11 @@
 OE5BPA:
   name        : "Peter Buchegger"
   bio         : "OE5BPA"
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/bio-photo.jpg"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://pbuchegger.at"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/peterus"
+      url: "https://twitter.com/peterus07"
