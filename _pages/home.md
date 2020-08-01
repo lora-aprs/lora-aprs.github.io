@@ -5,12 +5,6 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.3">Latest release v4.19.3</a></small> 
+  APRS was never so simple: use a cheap LoRa module like the TTGO T-Beam to send your position into the air. Received it at home with another cheap board like the TTGO LoRa32 or a Raspberry Pi.<br />
 ---
-
-This is aprs-lora.info
