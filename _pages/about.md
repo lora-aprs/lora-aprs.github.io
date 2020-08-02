@@ -7,4 +7,4 @@ We are a group of amateur radio operators who would like to bring APRS via LoRa 
 
 Would you like to develop something completely new? Get in touch with us, we can help you.
 
-You can find more information in our <a href="https://github.com/lora-aprs" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a> repositories and on our <a href='https://docs.lora-aprs.info/en/latest/?badge=latest'><img src='https://readthedocs.org/projects/lora-aprs/badge/?version=latest' alt='documentation' /></a> page.
+You can find more information in our <a href="https://github.com/lora-aprs" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a> repositories and on our <a href='https://docs.lora-aprs.info/en/latest/?badge=latest'>documentation</a> page.
