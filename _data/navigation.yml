@@ -16,31 +16,38 @@ docs:
       - title: "Quick-Start Guide"
         url: /docs/LoRa_APRS_iGate/quick-start-guide/
 
-  - title: "LoRa APRS Tracker"
-    children:
-      - title: "Overview"
-        url: /docs/LoRa_APRS_Tracker/overview/
-      - title: "Quick-Start Guide"
-        url: /docs/LoRa_APRS_Tracker/quick-start-guide/
+#  - title: "LoRa APRS Tracker"
+#    children:
+#      - title: "Overview"
+#        url: /docs/LoRa_APRS_Tracker/overview/
+#      - title: "Quick-Start Guide"
+#        url: /docs/LoRa_APRS_Tracker/quick-start-guide/
+#
+#  - title: "LoRa APRS Lib"
+#    children:
+#      - title: "Overview"
+#        url: /docs/LoRa-APRS-Lib/overview/
+#      - title: "API"
+#        url: /docs/LoRa-APRS-Lib/api/
+#
+#  - title: "APRS IS Lib"
+#    children:
+#      - title: "Overview"
+#        url: /docs/APRS-IS-Lib/overview/
+#      - title: "API"
+#        url: /docs/APRS-IS-Lib/api/
+#
+#  - title: "APRS Decoder Lib"
+#    children:
+#      - title: "Overview"
+#        url: /docs/APRS-Decoder-Lib/overview/
+#      - title: "API"
+#        url: /docs/APRS-Decoder-Lib/api/
 
-  - title: "LoRa APRS Lib"
+  - title: "Website"
     children:
       - title: "Overview"
-        url: /docs/LoRa-APRS-Lib/overview/
-      - title: "API"
-        url: /docs/LoRa-APRS-Lib/api/
-
-  - title: "APRS IS Lib"
-    children:
-      - title: "Overview"
-        url: /docs/APRS-IS-Lib/overview/
-      - title: "API"
-        url: /docs/APRS-IS-Lib/api/
-
-  - title: "APRS Decoder Lib"
-    children:
-      - title: "Overview"
-        url: /docs/APRS-Decoder-Lib/overview/
-      - title: "API"
-        url: /docs/APRS-Decoder-Lib/api/
+        url: /docs/Website/overview/
+      - title: "Add content"
+        url: /docs/Website/add/
 
