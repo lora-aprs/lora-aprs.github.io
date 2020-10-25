@@ -30,5 +30,38 @@ Es ist nicht zu empfehlen gleichzeitig ein iGate und einen Digi laufen zu lassen
 Richtige Board auswählen
 ===
 
+Nun muss noch das richtige Board ausgewählt werden, jedes Board ist nämlich ein bisschen anders verdrahtet (die GPIOs werden anders verwendet) oder besitzt zusätzliche Komponenten.
 
+Dies kann in der Statusleiste wo derzeit noch `Default` steht geändert werden.
 
+![choos board](/assets/docs/choos_board.png)
+
+Kompilieren und flashen
+===
+
+Nun sind alle Vorbereitungen abgeschlossen und wir können den Source Code kompilieren und auf das Board flashen.
+Dazu drücken wir auf den Pfeil der nach rechts zeigt in der Statusleiste.
+**ACHTUNG:** Nach dem flashen der Firmware muss auch noch die Konfiguration geflashed werden, das sind zwei einzelne Schritte!
+
+![statusleiste](/assets/docs/statusleiste.png)
+
+In der Statusleiste können folgende Dinge schnell erledigt werden:
+1. Kompilieren der Firmware
+2. Flashen der Firmware
+3. Aufräumen der temporären und der kompilierten Daten
+4. Serial Monitor
+
+Flashen der Konfiguration
+===
+
+Um die Konfiguration zu flashen muss ein Filesystem geflashed werden.
+Dazu führt man folgende Schritte aus:
+
+1. links auf das Alien klicken
+2. dann das jeweilige Board auswählen
+3. im Untermenü wird jetzt `Platform` erweitert
+4. dort klickt man auf `Upload Filesystem Image`
+
+![upload_filesystem](/assets/docs/upload_filesystem.png)
+
+**ACHTUNG:** Es kann manchmal passieren das der upload fehl schlägt. Dann einfach so lange probieren bis es passt.
