@@ -16,6 +16,11 @@ docs:
       - title: "Quick-Start Guide"
         url: /docs/LoRa_APRS_iGate/quick-start-guide/
 
+  - title: "TTGO PoE iGate"
+    children:
+      - title: "Build"
+        url: /docs/PoE-iGate/build/
+
 #  - title: "LoRa APRS Tracker"
 #    children:
 #      - title: "Overview"
