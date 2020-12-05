@@ -24,7 +24,7 @@ Löten des LoRa Boards
 ===
 
 LoRa Modem (SMD)
-====
+---
 
 Zunächst sollte man das LoRa Modem anlöten.
 
@@ -42,7 +42,7 @@ Verwendet nun die Entlötlize um das überflüssige Zinn aufzusaugen. Die Lötve
 
 
 LCD Versorgung
-====
+---
 
 ![modem](/assets/docs/build/5_lcd_look.png)
 
@@ -53,7 +53,7 @@ Unter den Löchern für das LCD sind ein paar Pads um VCC und GND für das LCD z
 
 
 Buchsenleiste
-====
+---
 
 Auf der Unterseite der PCB sollte nun die Buchsenleiste angelötet werden.
 Hier verwende ich ein paar Stiftleisten um die Buchsenleiste zusammen zu halten und zu stabilisieren:
@@ -72,7 +72,7 @@ Lötet nun den rest der Buchsenleiste fest.
 
 
 Taster
-====
+---
 
 Die zwei Taster können nun eingesetzt werden - sie halten schon ziemlich gut von alleine und müssen nur mehr auf der Rückseite verlötet werden.
 
@@ -80,7 +80,7 @@ Die zwei Taster können nun eingesetzt werden - sie halten schon ziemlich gut vo
 
 
 LCD
-====
+---
 
 Nun könnt ihr auch das LCD verlöten.
 
