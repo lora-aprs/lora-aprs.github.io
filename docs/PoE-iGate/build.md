@@ -15,7 +15,7 @@ Zunächst müssen wir das PoE Board vorbereiten dazu müssen wir zwei Stiftleist
 
 ![PoE Stiftleiste](/assets/docs/build/1_poe_stiftleiste.png)
 
-Danach können wir auf der Unterseite die kleine Stiftleiste einbauen:
+Danach können wir auf der Unterseite die kleine Stiftleiste anlöten:
 
 ![PoE Stiftleiste](/assets/docs/build/2_poe_stiftleiste.png)
 
