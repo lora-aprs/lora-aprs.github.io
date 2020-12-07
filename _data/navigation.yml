@@ -16,7 +16,7 @@ docs:
       - title: "Quick-Start Guide"
         url: /docs/LoRa_APRS_iGate/quick-start-guide/
       - title: "Config Guide (JSON-File)"
-        url: /docs/LoRa_APRS_iGate/how-to-config.md/
+        url: /docs/LoRa_APRS_iGate/how-to-config/
 
   - title: "TTGO PoE iGate"
     children:
