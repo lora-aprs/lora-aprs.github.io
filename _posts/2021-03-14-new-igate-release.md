@@ -9,6 +9,7 @@ author: OE5BPA
 After months of development I can finally say that the new iGate version arrived today (21.10.0).
 
 You can find the code in the github repository in the [master branch](https://github.com/lora-aprs/LoRa_APRS_iGate). Please feel free to create [bug-tickets](https://github.com/lora-aprs/LoRa_APRS_iGate/issues/new?assignees=peterus&labels=bug&template=bug_report_beta.md&title=) with the correct type.
+Thanks to all bug reporters! Please keep the good work :)
 
 #### What is new
 - a complete re-design of the iGate firmware.
